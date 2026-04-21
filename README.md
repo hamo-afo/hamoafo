@@ -22,6 +22,9 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building sca
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C]
+![C++]
+![Flutter]
 
 ### Frameworks & Tools
 - **Mobile**: Flutter, Dart
