@@ -28,6 +28,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building sca
 - **Backend**: Java, Spring Boot (learning)
 - **Databases**: SQL, Firebase
 - **Tools**: Git, Android Studio, VS Code
+- **Operating Systems**: worked on Linux(Kali, Ubuntu), windows
 
 ### Core Concepts
 - ✅ Object-Oriented Programming (OOP)
