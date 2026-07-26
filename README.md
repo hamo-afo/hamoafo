@@ -15,10 +15,11 @@
 
 - 🎓 B.S. Software Engineering student at **COMSATS University Islamabad**, Lahore Campus
 - 💻 Building with **Flutter/Dart** (Clean Architecture, SOLID) and **Java/Backend**
+- ☕ Strong foundation in **OOP, Data Structures & Algorithms, Java, JavaFX**, and backend development
+- 🧑‍💻 Also work with **C, C++, Python**, and **Jupyter Notebook** for coursework and experimentation
 - 🗄️ Comfortable across **Firebase, Supabase, SQL Server**
 - ♟️ Off the keyboard, I trade syntax errors for chess blunders.
-- 📫 Reach me at: **hamza472afzal@gmail.com**
-
+- 📫 Reach me at: **hamza472afzal@gmail.com*
 ---
 
 ### 🛠️ Tech Stack
