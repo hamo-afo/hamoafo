@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Hamza Afzal 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+COMSATS;Flutter+%26+Java+Developer;Backend+%7C+Firebase+%7C+Supabase+%7C+SQL+Server;Chess+Player+%7C+Geopolitics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+COMSATS;Flutter+%26+Java+Developer;Backend+%7C+Firebase+%7C+Supabase+%7C+SQL+Server" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,6 @@
 - 🎓 B.S. Software Engineering student at **COMSATS University Islamabad**, Lahore Campus
 - 💻 Building with **Flutter/Dart** (Clean Architecture, SOLID) and **Java/Backend**
 - 🗄️ Comfortable across **Firebase, Supabase, SQL Server**
-- 📚 Also interested in teaching **CS, Math & Physics** at the secondary level
 - ♟️ Off the keyboard, I trade syntax errors for chess blunders.
 - 📫 Reach me at: **hamza472afzal@gmail.com**
 
