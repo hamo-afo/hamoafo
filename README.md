@@ -1,119 +1,90 @@
-# 👋 Hi, I'm Hamza Afzal
+<h1 align="center">Hi there, I'm Hamza Afzal 👋</h1>
 
-**Full-Stack Developer | Java Enthusiast | Flutter Developer**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+COMSATS;Flutter+%26+Java+Developer;Backend+%7C+Firebase+%7C+Supabase+%7C+SQL+Server;Chess+Player+%7C+Geopolitics+Enthusiast" alt="Typing SVG" />
+</p>
 
-Welcome to my GitHub profile! I'm a passionate developer focused on building scalable applications and mastering both backend and mobile development.
-
----
-
-## 🚀 About Me
-
-- 💻 **Full-Stack Developer** with expertise in Java and cross-platform development
-- 📚 **Currently Learning**: Java (OOP & Data Structures & Algorithms), Flutter for cross-platform mobile apps
-- 🎯 **Mission**: To build efficient, scalable, and user-friendly applications
-- 🤝 **Open to Collaboration**: Always interested in exciting projects and learning opportunities
-- 📍 **Based in**: Pakistan
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamo-afo&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/hamo-afo?label=Followers&style=flat&color=6C63FF" alt="Followers" />
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+### 🚀 About Me
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Frameworks & Tools
-- **Mobile**: Flutter, Dart
-- **Backend**: Java, Spring Boot (learning)
-- **Databases**: SQL, Firebase
-- **Tools**: Git, Android Studio, VS Code
-- **Operating Systems**: worked on Linux(Kali, Ubuntu), windows
-
-### Core Concepts
-- ✅ Object-Oriented Programming (OOP)
-- ✅ Data Structures & Algorithms (DSA)
-- ✅ Cross-Platform Mobile Development
-- ✅ RESTful API Development
-- ✅ Version Control (Git/GitHub)
+- 🎓 B.S. Software Engineering student at **COMSATS University Islamabad**, Lahore Campus
+- 💻 Building with **Flutter/Dart** (Clean Architecture, SOLID) and **Java/Backend**
+- 🗄️ Comfortable across **Firebase, Supabase, SQL Server**
+- 📚 Also interested in teaching **CS, Math & Physics** at the secondary level
+- ♟️ Off the keyboard, I trade syntax errors for chess blunders.
+- 📫 Reach me at: **hamza472afzal@gmail.com**
 
 ---
 
-## 📊 GitHub Statistics
+### 🛠️ Tech Stack
 
-[![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamo-afo&show_icons=true&theme=radical)](https://github.com/hamo-afo)
-
----
-
-## 🔥 Featured Projects
-
-*Coming Soon - Stay tuned for exciting projects!*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,firebase,supabase,mysql,git,github,vscode,androidstudio" />
+</p>
 
 ---
 
-## 📚 Learning Journey
+### 📊 GitHub Stats
 
-- **Phase 1**: Master Java fundamentals, OOP principles, and DSA
-- **Phase 2**: Build robust backend systems with Spring Boot
-- **Phase 3**: Develop professional Flutter applications
-- **Phase 4**: Create full-stack applications combining backend and mobile
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamo-afo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamo-afo&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
----
-
-## 🎓 Education & Certifications
-
-*Add your certifications and educational background here*
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamo-afo&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 💡 What I'm Working On
+### 🔥 Contribution Graph
 
-- 🔨 Building a strong foundation in Data Structures & Algorithms
-- 📱 Creating feature-rich Flutter applications
-- 🏗️ Learning backend development with Java and Spring Boot
-- 📖 Contributing to open-source projects
-
----
-
-## 🌟 Core Values
-
-- **Code Quality**: Writing clean, maintainable, and efficient code
-- **Continuous Learning**: Staying updated with latest technologies
-- **Problem Solving**: Breaking down complex problems into simple solutions
-- **Collaboration**: Working effectively with teams to achieve goals
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamo-afo&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+### 🐍 Contribution Snake
 
-- **Email**: [hamza472afzal@gmail.com](mailto:hamza472afzal@gmail.com)
-- **GitHub**: [@hamo-afo](https://github.com/hamo-afo)
-- **LinkedIn**: *Add your LinkedIn URL*
-- **Twitter**: *Add your Twitter handle*
-
----
-
-## 📈 Future Goals
-
-- 🎯 Contribute to major open-source projects
-- 🏆 Build production-ready applications
-- 👥 Mentor junior developers
-- 🌍 Create impactful solutions for real-world problems
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hamo-afo/hamo-afo/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
-## 💬 Fun Fact
+### 🌱 Currently Learning
 
-*Add an interesting fact about yourself here!*
+- 🤖 **Machine Learning** & **Deep Learning** — working with raw, unprocessed datasets so I can own the full pipeline (cleaning, preprocessing, feature engineering) myself
+- 🧠 Exploring core ML fundamentals: regression, classification, and neural network basics before moving into deeper architectures
+- 🐍 Sharpening **Python** + libraries like **NumPy, Pandas, Scikit-learn**, and getting hands-on with **PyTorch/TensorFlow**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+</p>
 
 ---
 
-**⭐ If you find my projects helpful, please consider giving them a star!**
+### 📌 Featured Projects
 
-<!---
-hamo-afo/hamoafo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| Project | Description | Stack |
+|---|---|---|
+| [Reddit Clone](https://github.com/hamo-afo/reddit_clone) | A Reddit-style social app | Dart / Flutter |
+| [Synq](https://github.com/hamo-afo/Synq) | A global trend analyzer | Dart / Flutter |
+| [Library Management System](https://github.com/hamo-afo/library-management-system) | Library management app | C |
+| [DataCompresso](https://github.com/haisesasak-i/DataCompresso) | Data compression tool | Java |
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hamza-afzal-271a87290/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hamza472afzal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>⭐ From <a href="https://github.com/hamo-afo">hamo-afo</a> — thanks for stopping by!</i></p>
